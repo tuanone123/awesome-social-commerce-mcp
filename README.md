@@ -45,6 +45,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) is an open standar
 
 - 👥💻 **[Shopify (shopify-mcp)](https://github.com/GeLi2001/shopify-mcp)** — Query products, orders, customers and inventory through the Shopify Admin API from Claude or Cursor.
 - 🌍🏢 **[HOTLIKESHOP](https://github.com/tuanone123/hotlikeshop-mcp)** — Social/MMO accounts, proxies and digital services with agentic checkout (see [Featured](#-featured)).
+- 🌍🏢 **[TvojeLajky MCP](https://tvojelajky.cz/developers)** — Czech/CZK Instagram and TikTok service catalogue, quotes and orders; paid credit purchases require customer OAuth and a spending budget.
 
 ## Payments & Checkout
 
