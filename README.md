@@ -48,6 +48,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) is an open standar
 
 ## Payments & Checkout
 
+- 💻🏢 **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - 🏢 **[Stripe (stripe/ai)](https://github.com/stripe/ai)** — Official Stripe agent toolkit / MCP server: create payment links, invoices, customers and query balances.
 - 🏢 **[PayPal (agent-toolkit)](https://github.com/paypal/agent-toolkit)** — Official PayPal toolkit exposing orders, invoices, subscriptions and payouts to AI agents.
 
