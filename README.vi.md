@@ -62,6 +62,7 @@
 
 - 👥💻 **[Reddit (mcp-reddit)](https://github.com/adhikasp/mcp-reddit)** — Lấy và phân tích bài viết, bình luận, thread nổi trên Reddit.
 - 👥💻 **[Gmail (Gmail-MCP-Server)](https://github.com/GongRzhe/Gmail-MCP-Server)** — Gửi, tìm, đọc và quản lý Gmail cho quy trình outreach & hỗ trợ.
+- 🌍🏢 **[JuzPost](https://github.com/juzpost/juzpost-agent)** — Soạn, lên lịch và đăng bài lên YouTube, Instagram, TikTok, X, LinkedIn, Pinterest và 5 nền tảng khác từ ChatGPT hoặc bất kỳ MCP client nào.
 - 🏢 **[Server tham chiếu (modelcontextprotocol/servers)](https://github.com/modelcontextprotocol/servers)** — Bản tham chiếu chính thức, nền tảng tốt để tự dựng connector mạng xã hội.
 
 ## Email & CRM

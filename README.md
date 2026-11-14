@@ -62,6 +62,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) is an open standar
 
 - 👥💻 **[Reddit (mcp-reddit)](https://github.com/adhikasp/mcp-reddit)** — Fetch and analyze Reddit posts, comments and hot threads.
 - 👥💻 **[Gmail (Gmail-MCP-Server)](https://github.com/GongRzhe/Gmail-MCP-Server)** — Send, search, read and manage Gmail for outreach and support workflows.
+- 🌍🏢 **[JuzPost](https://github.com/juzpost/juzpost-agent)** — Draft, schedule and publish posts to YouTube, Instagram, TikTok, X, LinkedIn, Pinterest and 5 more platforms from ChatGPT or any MCP client.
 - 🏢 **[Reference servers (modelcontextprotocol/servers)](https://github.com/modelcontextprotocol/servers)** — The official reference implementations, a good base for building social connectors.
 
 ## Email & CRM
