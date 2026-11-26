@@ -48,6 +48,7 @@
 
 ## Thanh toán & Checkout
 
+- 💻🏢 **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Runtime thanh toán cục bộ qua CLI và MCP stdio trên macOS Apple Silicon, yêu cầu chủ sở hữu phê duyệt ký trong terminal.
 - 🏢 **[Stripe (stripe/ai)](https://github.com/stripe/ai)** — Agent toolkit / MCP chính chủ của Stripe: tạo payment link, hoá đơn, khách hàng và xem số dư.
 - 🏢 **[PayPal (agent-toolkit)](https://github.com/paypal/agent-toolkit)** — Toolkit chính chủ PayPal: đơn hàng, hoá đơn, subscription và payout cho AI agent.
 
