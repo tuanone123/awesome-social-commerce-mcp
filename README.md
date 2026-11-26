@@ -67,6 +67,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) is an open standar
 ## Email & CRM
 
 - 🌍🏢 **[HubSpot (mcp-server)](https://github.com/HubSpot/mcp-server)** — Official HubSpot server: contacts, deals, companies, tickets and engagements for marketing & sales agents.
+- 🌍🏢 **[Poptin MCP](https://developers.poptin.com/docs/mcp)** — Draft email campaigns, analyze popup and signup form performance, and build audience segments.
 
 ## Content, CMS & Design
 
